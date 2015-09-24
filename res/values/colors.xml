@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common begin -->
+    <color name="TRANSPARENT">#00000000</color>
+    <color name="WHITE">#FFFFFFFF</color>
+    <color name="BLUE">#FF0000FF</color>
+    <color name="RED">#e84c3d</color>
+    <color name="GREEN">#00a53c</color>
+    <color name="LIGHTGRAY">#F7F7F7</color>
+    <color name="GRAY">#E6E6E6</color>
+    <color name="DEEPGRAY">#848484</color>
+    <color name="list_selector_nornal">@color/TRANSPARENT</color>
+    <color name="list_selector_press">#f7f6f6</color>
+    <color name="indicator_background">#b2b2bc</color>
+
+    <!-- common text color begin -->
+    <color name="text_white">#ffffff</color>
+    <color name="text_white_normal">#efeff4</color>
+    <color name="text_white_press">#d2d3d9</color>
+    <color name="text_black">#363438</color>
+    <color name="text_deep_black">#242325</color>
+    <color name="text_stock_price">#5f5d62</color>
+    <color name="text_grey">#8c8c94</color>
+    <color name="text_grey_empty">#363439</color>
+    <color name="text_red">#e84c3d</color>
+    <color name="text_link_normal">#64658f</color>
+    <color name="text_link_press">#393a5e</color>
+    <color name="text_hint_color">#76778e</color>
+    
+    <color name="text_grey_notication_title">#9892a0</color>
+
+    <!-- login register begin -->
+    <color name="common_background">#f1f1f4</color>
+    <color name="quick_login_divider">#FFBEBDC5</color>
+    <color name="divider_list">#e2e2ed</color>
+    <color name="divider_block">#d7d7de</color>
+    <color name="divider_big">#e7e6eb</color>
+
+</resources>

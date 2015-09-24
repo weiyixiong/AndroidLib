@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- 实心 -->
+    <solid android:color="@color/WHITE" />
+
+    <!-- 圆角 -->
+    <corners android:bottomRightRadius="8dip" />
+
+    <padding
+        android:bottom="@dimen/gap_12"
+        android:top="@dimen/gap_12" />
+</shape>

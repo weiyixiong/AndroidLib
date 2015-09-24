@@ -1,4 +1,4 @@
-package com.wyx.androidlib;
+package com.wyx.androidlib.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
