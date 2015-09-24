@@ -1,4 +1,4 @@
-package com.wyx.androidlib.view;
+package com.wyx.androidlib.utils;
 
 import java.io.File;
 import java.io.IOException;

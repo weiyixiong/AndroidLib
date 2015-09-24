@@ -19,8 +19,6 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.wyx.androidlib.view.StorageUtils;
-
 public class PhotoUtil {
 	private static final String PORTRAIT_NAME = "portrait";
 	private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 100;
